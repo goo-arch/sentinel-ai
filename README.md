@@ -11,3 +11,6 @@ SentinelAI is an AI-powered cybersecurity analytics platform designed to analyze
 
 ## Status
 Early development stage.
+## Contact & Research Interest
+
+This project is part of my exploration into AI-assisted cybersecurity analytics and scalable secure storage infrastructure.
