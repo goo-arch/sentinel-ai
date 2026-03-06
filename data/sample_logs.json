@@ -1,0 +1,5 @@
+[
+  {"event": "login_success"},
+  {"event": "failed_login_attempt"},
+  {"event": "port_scan_detected"}
+]
